@@ -5,4 +5,4 @@
 ## Встановлення
 
 ```bash
-pip install timestamp_adder
+pip install git+https://github.com/vmazurukrtelecom/timestamp_adder.git
