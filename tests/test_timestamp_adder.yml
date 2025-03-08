@@ -1,6 +1,5 @@
 ---
 - hosts: all
-  gather_facts: true
   
   tasks:
   - name: "What's my received value  test_variable1 via inventory VARIABLE after timestamp_adder lookup"
