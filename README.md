@@ -12,6 +12,8 @@ https://www.redhat.com/en/blog/ansible-tower-feature-spotlight-custom-credential
 
 ```bash
 pip install git+https://github.com/vmazurukrtelecom/timestamp_adder.git
+awx-python -m pip install git+https://github.com/vmazurukrtelecom/timestamp_adder.git
+
 ```
 
 add to inventory VARIABLES 
